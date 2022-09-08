@@ -40,4 +40,15 @@ let array = [];
 }
 ```
 
+### Course: 
+
+* Myfreedom (Frontend-Developer);
+* RSSchool stage0 (JavaScript).
+
+### Languages:
+
+* English - A1;
+* Polish - B2 (studiował od 1 do 9 w klasie polskiej), _wyjeżdżał na letnie i zimowe wakacje do Polski co roku_
+* Russian - Native;
+* Belarusian - Native.
 
